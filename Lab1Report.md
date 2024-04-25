@@ -71,7 +71,9 @@ Was it an error?: No, it was not an error because it worked as intended since th
 ![Image](Cse15-l106.png)
 
 **UPDATE:**
+
 ![Image](Update2.png)
+
 **UPDATE:**
 
 The absolute path before entering the command?: `/c/Users/Cindy/OneDrive/CSE 15L/lecture1`
@@ -81,7 +83,9 @@ Why did I get this output?: When using the `ls` command with `messages` for the 
 Was it an error?:  No, it was not an error because it worked as intended since the `lecture1` directory was in the current directory, it was able to `ls` the file messages for its files since a file of `lecture1` itself. 
 
 **UPDATE:**
-Was it an error?: No because the terminal allowed it to go through and when using the `ls` command on `Hello.java`, it returns `Hello.java` back in the terminal
+
+Was it an error?: No because the terminal allowed it to go through and when using the `ls` command on `Hello.java`, it returns `Hello.java` back in the terminal.
+
 **UPDATE:**
 
 ## For The `cat` Command:
@@ -107,7 +111,9 @@ Why did I get this output?: When the `cat` command with `lecture1` for the direc
 Was it an error?:  No, it was not an error because it worked as intended but since it doesn't have other paths/files to combine with `lecture1`, it defaults to printing since the `cat` command is used for creating, merging, viewing, etc. 
 
 **UPDATE:**
+
 Was it an error?: Yes because `messages` is a directory and not a file. 
+
 **UPDATE:**
 
 **3)Share an example of using the command with a path to a file as an argument:**
