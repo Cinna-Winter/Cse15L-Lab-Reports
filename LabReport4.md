@@ -4,6 +4,8 @@
 
 **Screenshot:**
 
+![Image](LabR4.png)
+
 **Keypresses/Clicks:**
 
 ```
