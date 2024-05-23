@@ -64,7 +64,7 @@ After:
 **Keypresses:**
 
 ```
-<up arrow x30~>, <vim ListExamples.java>, <enter>, <:44> <I>, <up arrow x6>, <backspace>, <press 2>, <escape>, <:wq!>, <enter>.
+<up arrow x30~>, <vim ListExamples.java>, <enter>, <:44> <I>, <right arrow x6>, <backspace>, <press 2>, <escape>, <:wq!>, <enter>.
 ```
 
 **Summary:**
